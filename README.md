@@ -51,15 +51,19 @@ Passionate **Software QA Engineer** and **AI/Automation Developer** dedicated to
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Project Portfolio & Architecture Matrix
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| ⚡ [**ZVB Radar & Lead Engine**](https://github.com/amirthn6533/zvb-radar) | `Python` `Telegram` `CI/CD` | 24/7 Sofia electrical & smart systems lead scraper, 7-layer qualification filter & Telegram assistant. |
-| 🤖 [**AI Email Assistant**](https://github.com/amirthn6533/ai-email-assistant) | `Python` `NLP` `AI` | Intelligent NLP engine to analyze incoming communications, summarize intent, and auto-draft contextual replies. |
-| 🎭 [**Playwright E2E Suite**](https://github.com/amirthn6533/playwright-tests-) | `TypeScript` `Playwright` | Robust, scalable end-to-end browser automation framework featuring Page Object Model and parallel CI execution. |
-| 🛡️ [**Wi-Fi Sentinel Suite**](https://github.com/amirthn6533/wifi-sentinel-suite) | `Python` `Security` | Automated network security inspection, wireless signal monitoring, and diagnostic assessment toolkit. |
-| 💼 [**AI Job Assistant**](https://github.com/amirthn6533/ai-job-assistant) | `JavaScript` `AI` `Automation` | Intelligent job discovery, resume matching, and application tracking assistant leveraging AI algorithms. |
+| Project | Maturity Tier | CI/CD | Live Demo / App | Core Tech Stack |
+| :--- | :---: | :---: | :---: | :--- |
+| ⚡ [**ZVB Lead Radar v2.0**](https://github.com/amirthn6533/zvb-radar) | `Production 🟢` | [![CI](https://img.shields.io/badge/24%2F7-Passing-brightgreen?style=flat-square&logo=github-actions)](https://github.com/amirthn6533/zvb-radar/actions) | [Official Site](https://zvb.bg) | `Python 3.11` `SQLite` `Telegram Bot` `FastAPI` |
+| 🎭 [**Playwright E2E Suite**](https://github.com/amirthn6533/playwright-tests-) | `Production 🟢` | [![CI](https://img.shields.io/badge/Playwright-Passing-brightgreen?style=flat-square&logo=playwright)](https://github.com/amirthn6533/playwright-tests-/actions) | [HTML Report](https://github.com/amirthn6533/playwright-tests-/actions) | `TypeScript` `Playwright` `Docker` `POM` |
+| 🏋️ [**FitLife Bulgaria PWA**](https://github.com/amirthn6533/fitlife-bulgaria) | `Production 🟢` | [![Deploy](https://img.shields.io/badge/Pages-Active-brightgreen?style=flat-square&logo=github)](https://amirthn6533.github.io/fitlife-bulgaria/) | [🚀 Live Web App](https://amirthn6533.github.io/fitlife-bulgaria/) | `JavaScript ES6` `PWA` `Supabase` `Capacitor` |
+| 🍕 [**Pizza Italia Digital Menu**](https://github.com/amirthn6533/pizza-italia-menu) | `Production 🟢` | [![Deploy](https://img.shields.io/badge/Pages-Active-brightgreen?style=flat-square&logo=github)](https://amirthn6533.github.io/pizza-italia-menu/) | [🚀 Live Digital Menu](https://amirthn6533.github.io/pizza-italia-menu/) | `HTML5` `CSS3` `JavaScript` `PWA Offline` |
+| 📄 [**Engineering Portfolio CV**](https://github.com/amirthn6533/cv) | `Production 🟢` | [![Deploy](https://img.shields.io/badge/Pages-Active-brightgreen?style=flat-square&logo=github)](https://amirthn6533.github.io/cv/) | [🚀 Live Portfolio](https://amirthn6533.github.io/cv/) | `HTML5` `CSS3` `JavaScript` `Responsive` |
+| 🤖 [**AI Email Assistant**](https://github.com/amirthn6533/ai-email-assistant) | `Active Dev 🟡` | [![CI](https://img.shields.io/badge/PyTest-Passing-brightgreen?style=flat-square&logo=pytest)](https://github.com/amirthn6533/ai-email-assistant/actions) | [App Demo](https://github.com/amirthn6533/ai-email-assistant#-usage) | `Python` `Streamlit` `HuggingFace` `SQLite` |
+| 💼 [**AI Job Assistant**](https://github.com/amirthn6533/ai-job-assistant) | `Active Dev 🟡` | [![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square&logo=github-actions)](https://github.com/amirthn6533/ai-job-assistant/actions) | [API Docs](https://github.com/amirthn6533/ai-job-assistant#-api-endpoints) | `FastAPI` `Gemini AI` `SQLite` `Docker` |
+| 🔍 [**Multimodal AI Fact Checker**](https://github.com/amirthn6533/multimodal-ai-fact-checking) | `Research 🔬` | [![CI](https://img.shields.io/badge/Pipeline-Passing-brightgreen?style=flat-square&logo=github-actions)](https://github.com/amirthn6533/multimodal-ai-fact-checking/actions) | [Research Docs](https://github.com/amirthn6533/multimodal-ai-fact-checking) | `PyTorch` `Transformers` `FastAPI` `Vision` |
+| 🛡️ [**Wi-Fi Sentinel Suite**](https://github.com/amirthn6533/wifi-sentinel-suite) | `Research 🔬` | [![CI](https://img.shields.io/badge/Audit-Passing-brightgreen?style=flat-square&logo=github-actions)](https://github.com/amirthn6533/wifi-sentinel-suite/actions) | [CLI / GUI Hub](https://github.com/amirthn6533/wifi-sentinel-suite#-quick-launch-master-command-center) | `Python` `Matplotlib` `RF Sensing` `Kalman Filter` |
 
 ---
 
