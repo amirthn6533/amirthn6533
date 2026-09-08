@@ -59,7 +59,7 @@ Passionate **Software QA Engineer** and **AI/Automation Developer** dedicated to
 | 🤖 [**AI Email Assistant**](https://github.com/amirthn6533/ai-email-assistant) | `Python` `NLP` `AI` | Intelligent NLP engine to analyze incoming communications, summarize intent, and auto-draft contextual replies. |
 | 🎭 [**Playwright E2E Suite**](https://github.com/amirthn6533/playwright-tests-) | `TypeScript` `Playwright` | Robust, scalable end-to-end browser automation framework featuring Page Object Model and parallel CI execution. |
 | 🛡️ [**Wi-Fi Sentinel Suite**](https://github.com/amirthn6533/wifi-sentinel-suite) | `Python` `Security` | Automated network security inspection, wireless signal monitoring, and diagnostic assessment toolkit. |
-| 🛒 [**E-Commerce Test Suite**](https://github.com/amirthn6533/ecommerce-tests) | `Python` `Selenium` `PyTest` | Complete automated functional testing suite validating checkout flows, carts, and authentication pipelines. |
+| 💼 [**AI Job Assistant**](https://github.com/amirthn6533/ai-job-assistant) | `JavaScript` `AI` `Automation` | Intelligent job discovery, resume matching, and application tracking assistant leveraging AI algorithms. |
 
 ---
 
