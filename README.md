@@ -51,6 +51,21 @@ Passionate **Software QA Engineer** and **AI/Automation Developer** dedicated to
 
 ---
 
+### 🏆 Open-Source Engineering & Contributions (Enterprise & AI Ecosystem)
+
+Active contributor to core repositories of global enterprise platforms and research institutes with engineering presence in Sofia, Bulgaria:
+
+| Organization | Repository | Area & Contribution | Pull Request | Status |
+| :--- | :--- | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`SAP/ai-sdk-js`](https://github.com/SAP/ai-sdk-js) | **AI Core & LangChain:** Support `max_completion_tokens` for reasoning models (`o1`, `o3-mini`, `gpt-5`) | [**#2524**](https://github.com/SAP/ai-sdk-js/pull/2524) | `CLA Signed` 🟢 |
+| <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`SAP/ai-sdk-js`](https://github.com/SAP/ai-sdk-js) | **AI Core Architecture:** Unified credential loader, env aliases & `~/.aicore/config.json` | [**#2520**](https://github.com/SAP/ai-sdk-js/pull/2520) | `CLA Signed` 🟢 |
+| <img src="https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`SAP/ui5-webcomponents`](https://github.com/SAP/ui5-webcomponents) | **SAP Labs Sofia:** Fix invalid WAI-ARIA `aria-selected` attribute on `role="listitem"` | [**#14245**](https://github.com/SAP/ui5-webcomponents/pull/14245) | `CLA Signed` 🟢 |
+| <img src="https://img.shields.io/badge/INSAIT_Sofia-1A1A1A?style=flat-square&logo=google&logoColor=white" /> | [`insait-institute/open-proof-corpus`](https://github.com/insait-institute/open-proof-corpus) | **Reinforcement Learning:** Validate PPO mini-batch size against real train batch size | [**#4**](https://github.com/insait-institute/open-proof-corpus/pull/4) | `Under Review` 🟢 |
+| <img src="https://img.shields.io/badge/Controlvar-6366F1?style=flat-square&logo=fastapi&logoColor=white" /> | [`Controlvar/controlvar`](https://github.com/Controlvar/controlvar) | **Accessibility & Quality:** Resolve low-contrast WCAG AA text & invalid ARIA on flag details | [**#1492**](https://github.com/Controlvar/controlvar/pull/1492) | `Approved by Lead` 🚀 |
+| <img src="https://img.shields.io/badge/Controlvar-6366F1?style=flat-square&logo=fastapi&logoColor=white" /> | [`Controlvar/controlvar`](https://github.com/Controlvar/controlvar) | **Security & Auditing:** Redact sensitive fields inside nested dicts/arrays in audit logs | [**#1488**](https://github.com/Controlvar/controlvar/pull/1488) | `Under Review` 🟢 |
+
+---
+
 ### 🌟 Project Portfolio & Architecture Matrix
 
 | Project | Maturity Tier | CI/CD | Live Demo / App | Core Tech Stack |
