@@ -16,7 +16,7 @@ Senior-track **Software QA Engineer** and **Enterprise AI / Automation Developer
 
 - 🧪 **Quality Assurance & Verification:** Automated End-to-End (E2E) testing with Playwright (TypeScript/Python), PyTest, Jest, Cypress, Section 508 / WCAG 2.1 accessibility audits, and CI/CD quality gates.
 - ⚡ **AI Infrastructure & LLM Evaluation:** Token spend governance, streaming orchestration deltas, reasoning model parameter mapping (o1/o3/gpt-5), and GraphRAG evaluation pipelines.
-- 🏢 **Enterprise & Mission-Critical Open Source:** Active contributor to **NASA EOSDIS**, **SAP Labs Bulgaria**, **Ontotext Sofia AI**, **SAP Generative AI Hub**, and **LiteLLM**.
+- 🏢 **Core Systems & AI Open Source:** Officially merged contributor to **`ggml-org/llama.cpp` (70k+★)**, **`whisper.cpp`**, **Microsoft** (`gputaskman`), **SAP Labs Bulgaria**, **EnduroSat Aerospace**, and **NASA EOSDIS**.
 - 📍 **Location:** Sofia, Bulgaria 🇧🇬 • Open to High-Impact Software Engineering & QA roles.
 
 ---
@@ -59,6 +59,10 @@ Engineering footprint across mission-critical systems and Sofia-based engineerin
 
 | Organization / Ecosystem | Repository | Contribution & Impact | Pull Request | Status |
 | :--- | :--- | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/ggml_org-111111?style=flat-square&logo=c%2B%2B&logoColor=white" /> | [`ggml-org/llama.cpp`](https://github.com/ggml-org/llama.cpp) | **Core AI Inference Engine:** UI build and runtime configuration for npm 12+ (#32158) | [**#32196**](https://github.com/ggml-org/llama.cpp/pull/32196) | `MERGED into master by @ngxson` 👑 |
+| <img src="https://img.shields.io/badge/ggml_org-111111?style=flat-square&logo=c%2B%2B&logoColor=white" /> | [`ggml-org/whisper.cpp`](https://github.com/ggml-org/whisper.cpp) | **Speech-to-Text Core:** Preserve initial prompt context under zero text buffer size (#4098) | [**#4168**](https://github.com/ggml-org/whisper.cpp/pull/4168) | `MERGED into master` 🚀 |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> | [`shanselman/gputaskman`](https://github.com/shanselman/gputaskman) | **GPU Systems & AI:** Report KV-cache pool usage and request concurrency from `llama-server` `/metrics` (#69) | [**#69**](https://github.com/shanselman/gputaskman/pull/69) | `CI Verified / In Review` 🚀 |
+| <img src="https://img.shields.io/badge/EnduroSat-FF6600?style=flat-square&logo=spacex&logoColor=white" /> | [`endurosat/fp_csp_binder`](https://github.com/endurosat/fp_csp_binder) | **Aerospace / Satellite:** CubeSat CSP protocol binding & communications layer reliability | [**#1**](https://github.com/endurosat/fp_csp_binder/pull/1) | `Open / Verified` 🛰️ |
 | <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white" /> | [`nasa/earthdata-search`](https://github.com/nasa/earthdata-search) | **NASA Earth Science:** Display disabled Explore button when Smart Handoffs are invalid (#1544) with full Playwright E2E coverage | [**#2115**](https://github.com/nasa/earthdata-search/pull/2115) | `CI Green / In Review` 🚀 |
 | <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white" /> | [`nasa/earthdata-search`](https://github.com/nasa/earthdata-search) | **NASA Earth Science:** Preserve 0-valued zoom, coordinates & rotation in polar satellite maps (#2103) | [**#2113**](https://github.com/nasa/earthdata-search/pull/2113) | `CI Green / In Review` 🚀 |
 | <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white" /> | [`nasa/earthdata-search`](https://github.com/nasa/earthdata-search) | **NASA Earth Science:** Persist all-off map overlays state as 'none' in URL serialization (#2104) | [**#2114**](https://github.com/nasa/earthdata-search/pull/2114) | `CI Green / In Review` 🚀 |
