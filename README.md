@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Amir%20Tahani%20👋&fontSize=42&fontAlignY=38&desc=Software%20QA%20Engineer%20%7C%20Enterprise%20AI%20%26%20Automation%20Architect&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=220&section=header&text=Amir%20Tahani%20👋&fontSize=40&fontAlignY=38&desc=AI%2FML%20Engineer%20%26%20Systems%20Developer%20%7C%20Core%20Contributor%20%40%20GitLab%20%26%20SAP%20Labs&descFontSize=18&descAlignY=62&fontColor=ffffff" width="100%" />
 
   <p align="center">
     <a href="https://github.com/amirthn6533"><img src="https://img.shields.io/github/followers/amirthn6533?label=Followers&style=for-the-badge&color=238636" alt="Followers" /></a>
-    <a href="https://github.com/amirthn6533"><img src="https://img.shields.io/github/stars/amirthn6533?label=Total%20Stars&style=for-the-badge&color=e3b341" alt="Stars" /></a>
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Senior%20Roles%20in%20Sofia-blue?style=for-the-badge" alt="Status" />
+    <a href="https://gitlab.com/amirthn6533"><img src="https://img.shields.io/badge/GitLab-Core_Contributor-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+    <a href="https://www.linkedin.com/in/amir-tahani123/"><img src="https://img.shields.io/badge/LinkedIn-Amir_Tahani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20AI%20%26%20Engineering%20Roles%20in%20Sofia-blue?style=for-the-badge" alt="Status" />
   </p>
 </div>
 
@@ -12,68 +13,62 @@
 
 ### 👨‍💻 Professional Summary
 
-Senior-track **Software QA Engineer** and **Enterprise AI / Automation Developer** based in **Sofia, Bulgaria 🇧🇬**. Specializing in high-integrity software verification, LLM evaluation pipelines, and enterprise systems engineering.
+**AI/ML Engineer & Systems Developer** based in **Sofia, Bulgaria 🇧🇬** with a **B.Sc. in Computer Science from Technical University of Sofia (ТУ-София)**. Proven track record contributing core architectural components to enterprise open-source foundations:
 
-- 🧪 **Quality Assurance & Verification:** Automated End-to-End (E2E) testing with Playwright (TypeScript/Python), PyTest, Jest, Cypress, Section 508 / WCAG 2.1 accessibility audits, and CI/CD quality gates.
-- ⚡ **AI Infrastructure & LLM Evaluation:** Token spend governance, streaming orchestration deltas, reasoning model parameter mapping (o1/o3/gpt-5), and GraphRAG evaluation pipelines.
-- 🏢 **Core Systems & AI Open Source:** Officially merged contributor to **`ggml-org/llama.cpp` (70k+★)**, **`whisper.cpp`**, **Microsoft** (`gputaskman`), **SAP Labs Bulgaria**, **EnduroSat Aerospace**, and **NASA EOSDIS**.
-- 📍 **Location:** Sofia, Bulgaria 🇧🇬 • Open to High-Impact Software Engineering & QA roles.
+- 🦊 **GitLab Core & Systems Contributor:** Authored security and telemetry layers for GitLab AI Assist, GitLab Duo CLI and Agent Platform, standardizing CLI error contracts, and resolving security token edge cases in `gitlab-pages` (Approved by Principal Maintainer Joe Shaw).
+- 🛡️ **SAP Labs Bulgaria Contributor:** Officially merged UI5 web components with Sofia lead maintainers (`#14294`), and built production-grade LLM input guardrails (`PiiSanitizer`) for SAP Project Aegis.
+- ⚡ **LLM Runtime & Edge Inference:** Officially merged contributor to **`ggml-org/llama.cpp` (70k+★)** and **`whisper.cpp`**, alongside token spend telemetry systems and Agentic AI workflows.
+- 📍 **Location:** Sofia, Bulgaria 🇧🇬 • Open to High-Impact AI, Machine Learning, Systems, and QA Engineering roles.
 
 ---
 
 ### 🛠️ Core Engineering Stack
 
-#### 🧪 Quality Assurance & Test Engineering
+#### 🤖 AI, Machine Learning & Agentic Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama.cpp-70k%20★-black?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+#### 💻 Programming Languages & Systems
+<p>
+  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+#### 🧪 Quality Assurance & Automation
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black" />
-  <img src="https://img.shields.io/badge/WCAG_2.1_&_Section_508-005A9C?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD_GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-#### 💻 Programming Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### ⚙️ DevOps, Containers & Systems
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
 
 ### 🏆 Enterprise & Research Contributions
 
-Engineering footprint across mission-critical systems and Sofia-based engineering centers:
-
-| Organization / Ecosystem | Repository | Contribution & Impact | Pull Request | Status |
+| Organization / Ecosystem | Repository | Contribution & Impact | Reference | Status |
 | :--- | :--- | :--- | :---: | :---: |
+| <img src="https://img.shields.io/badge/GitLab_Core-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> | [`gitlab-org/ai-assist`](https://gitlab.com/gitlab-org/ai-assist) | **GitLab AI Assist Security:** Standardize token validation and security constraints | [**!8051**](https://gitlab.com/gitlab-org/ai-assist/-/merge_requests/8051) | `MERGED into GitLab 19.7 (+110 pts)` 👑 |
+| <img src="https://img.shields.io/badge/GitLab_Pages-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> | [`gitlab-org/gitlab-pages`](https://gitlab.com/gitlab-org/gitlab-pages) | **Authentication Security:** Preserve project prefix cookie path on reauth clear and invalid token | [**!1387**](https://gitlab.com/gitlab-org/gitlab-pages/-/merge_requests/1387) | `APPROVED by Joe Shaw (Principal Maintainer)` 🟢 |
+| <img src="https://img.shields.io/badge/GitLab_CLI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> | [`gitlab-org/cli`](https://gitlab.com/gitlab-org/cli) | **AI Agent Telemetry & GitLab Duo:** Expand coding agent detection to Duo CLI, Agent Platform, and 18 modern agents (#8749, #8766) | [**!4480**](https://gitlab.com/gitlab-org/cli/-/merge_requests/4480) | `CI Green / Ready for Review` 🚀 |
+| <img src="https://img.shields.io/badge/GitLab_CLI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /> | [`gitlab-org/cli`](https://gitlab.com/gitlab-org/cli) | **Command Architecture:** Share ParseID helper across runner and registry commands (#8691) | [**!4425**](https://gitlab.com/gitlab-org/cli/-/merge_requests/4425) | `APPROVED by @ck3g / In Merge Queue` 🟢 |
+| <img src="https://img.shields.io/badge/SAP_Labs_Bulgaria-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`UI5/webcomponents`](https://github.com/UI5/webcomponents) | **SAP Labs Sofia:** Fix `TreeItemCustom` ARIA `aria-setsize` calculating from items slot (#14239) | [**#14294**](https://github.com/UI5/webcomponents/pull/14294) | `MERGED into main by Nayden Naydenov` 👑 |
+| <img src="https://img.shields.io/badge/SAP_AI_Guardrails-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`SAP/project-aegis`](https://github.com/SAP/project-aegis) | **AI Security:** Implement PiiSanitizer guardrail for structured LLM input redaction | [**#24**](https://github.com/SAP/project-aegis/pull/24) | `334 Tests Passing / CLA Signed` 🛡️ |
 | <img src="https://img.shields.io/badge/ggml_org-111111?style=flat-square&logo=c%2B%2B&logoColor=white" /> | [`ggml-org/llama.cpp`](https://github.com/ggml-org/llama.cpp) | **Core AI Inference Engine:** UI build and runtime configuration for npm 12+ (#32158) | [**#32196**](https://github.com/ggml-org/llama.cpp/pull/32196) | `MERGED into master by @ngxson` 👑 |
 | <img src="https://img.shields.io/badge/ggml_org-111111?style=flat-square&logo=c%2B%2B&logoColor=white" /> | [`ggml-org/whisper.cpp`](https://github.com/ggml-org/whisper.cpp) | **Speech-to-Text Core:** Preserve initial prompt context under zero text buffer size (#4098) | [**#4168**](https://github.com/ggml-org/whisper.cpp/pull/4168) | `MERGED into master` 🚀 |
 | <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> | [`shanselman/gputaskman`](https://github.com/shanselman/gputaskman) | **GPU Systems & AI:** Report KV-cache pool usage and request concurrency from `llama-server` `/metrics` (#69) | [**#69**](https://github.com/shanselman/gputaskman/pull/69) | `CI Verified / In Review` 🚀 |
-| <img src="https://img.shields.io/badge/EnduroSat-FF6600?style=flat-square&logo=spacex&logoColor=white" /> | [`endurosat/fp_csp_binder`](https://github.com/endurosat/fp_csp_binder) | **Aerospace / Satellite:** CubeSat CSP protocol binding & communications layer reliability | [**#1**](https://github.com/endurosat/fp_csp_binder/pull/1) | `Open / Verified` 🛰️ |
-| <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white" /> | [`nasa/earthdata-search`](https://github.com/nasa/earthdata-search) | **NASA Earth Science:** Display disabled Explore button when Smart Handoffs are invalid (#1544) with full Playwright E2E coverage | [**#2115**](https://github.com/nasa/earthdata-search/pull/2115) | `CI Green / In Review` 🚀 |
-| <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white" /> | [`nasa/earthdata-search`](https://github.com/nasa/earthdata-search) | **NASA Earth Science:** Preserve 0-valued zoom, coordinates & rotation in polar satellite maps (#2103) | [**#2113**](https://github.com/nasa/earthdata-search/pull/2113) | `CI Green / In Review` 🚀 |
-| <img src="https://img.shields.io/badge/NASA-0B3D91?style=flat-square&logo=nasa&logoColor=white" /> | [`nasa/earthdata-search`](https://github.com/nasa/earthdata-search) | **NASA Earth Science:** Persist all-off map overlays state as 'none' in URL serialization (#2104) | [**#2114**](https://github.com/nasa/earthdata-search/pull/2114) | `CI Green / In Review` 🚀 |
-| <img src="https://img.shields.io/badge/SAP_Labs_Bulgaria-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`UI5/webcomponents`](https://github.com/UI5/webcomponents) | **SAP Labs Sofia:** Fix `ui5-popup` lifecycle `preventInitialFocus` timing in same tick (#14234) | [**#14258**](https://github.com/UI5/webcomponents/pull/14258) | `MERGED into main by @TeodorTaushanov` 🚀 |
-| <img src="https://img.shields.io/badge/SAP_Labs_Bulgaria-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`UI5/webcomponents`](https://github.com/UI5/webcomponents) | **SAP Labs Sofia:** Fix `TreeItemCustom` ARIA `aria-setsize` calculating from items slot (#14239) | [**#14259**](https://github.com/UI5/webcomponents/pull/14259) | `Reviewed by @nnaydenow` 🟢 |
-| <img src="https://img.shields.io/badge/SAP_Labs_Bulgaria-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`UI5/webcomponents`](https://github.com/UI5/webcomponents) | **SAP Labs Sofia:** Omit invalid WAI-ARIA `aria-selected` attribute on `role="listitem"` (#14235) | [**#14245**](https://github.com/UI5/webcomponents/pull/14245) | `Reviewed by @nnaydenow` 🟢 |
-| <img src="https://img.shields.io/badge/Ontotext_Sofia-0A2540?style=flat-square&logo=python&logoColor=white" /> | [`Ontotext-AD/graphrag-eval`](https://github.com/Ontotext-AD/graphrag-eval) | **Sofia AI QA Framework:** Support pre-parsed dict step outputs in `update_steps_summary` & elevate `graphrag_eval.util` to 100% test coverage | [**#111**](https://github.com/Ontotext-AD/graphrag-eval/pull/111) | `97 Tests Green / In Review` 🚀 |
 | <img src="https://img.shields.io/badge/SAP_AI-008FD3?style=flat-square&logo=sap&logoColor=white" /> | [`SAP/ai-sdk-js`](https://github.com/SAP/ai-sdk-js) | **AI Core & LangChain:** Support `max_completion_tokens` for Azure OpenAI reasoning models (`o1`/`o3`/`gpt-5`) (#1174) | [**#2524**](https://github.com/SAP/ai-sdk-js/pull/2524) | `Co-authored by SAP Lead @marikaner` 🚀 |
 | <img src="https://img.shields.io/badge/LiteLLM-19k%20★-blueviolet?style=flat-square&logo=openai&logoColor=white" /> | [`BerriAI/litellm`](https://github.com/BerriAI/litellm) | **AI Gateway Architecture:** Clamp negative spend underflow after budget reset across keys, users & teams (#49842) | [**#49870**](https://github.com/BerriAI/litellm/pull/49870) | `CI Passed / In Review` 🚀 |
-| <img src="https://img.shields.io/badge/Controlvar-6366F1?style=flat-square&logo=fastapi&logoColor=white" /> | [`Controlvar/controlvar`](https://github.com/Controlvar/controlvar) | **A/B Testing Framework:** 5/5 PRs merged for FastAPI audit logging, WCAG AA a11y, Jest & React | [**#1488–#1492**](https://github.com/Controlvar/controlvar/pulls?q=is%3Apr+author%3Aamirthn6533) | `100% MERGED` 🚀 |
-| <img src="https://img.shields.io/badge/INSAIT_Sofia-1A1A1A?style=flat-square&logo=google&logoColor=white" /> | [`insait-institute/open-proof-corpus`](https://github.com/insait-institute/open-proof-corpus) | **Sofia AI Research:** Validate PPO mini-batch size against real train batch size | [**#4**](https://github.com/insait-institute/open-proof-corpus/pull/4) | `Under Review` 🟢 |
+| <img src="https://img.shields.io/badge/EnduroSat-FF6600?style=flat-square&logo=spacex&logoColor=white" /> | [`endurosat/fp_csp_binder`](https://github.com/endurosat/fp_csp_binder) | **Aerospace / Satellite:** CubeSat CSP protocol binding & communications layer reliability | [**#1**](https://github.com/endurosat/fp_csp_binder/pull/1) | `Open / Verified` 🛰️ |
 
 ---
 
@@ -103,10 +98,12 @@ Engineering footprint across mission-critical systems and Sofia-based engineerin
 
 <p align="center">
   <a href="mailto:amirthn653381@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amir-tahani123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/amirthn6533"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gitlab.com/amirthn6533"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
   <a href="https://amirthn6533.github.io/cv/"><img src="https://img.shields.io/badge/Interactive_Portfolio-008080?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <i>⭐️ Open to collaborations on mission-critical software verification and enterprise AI systems.</i>
+  <i>⭐️ Open to collaborations on mission-critical software verification, enterprise AI, and distributed systems.</i>
 </p>
